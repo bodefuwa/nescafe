@@ -24,10 +24,42 @@ brew cask install spotify
 brew cask install evernote
 brew install wget
 brew install maven
+brew install ant
 brew cask install github
 brew install gradle
 brew install scala
 brew install sbt
+brew install alfred
+brew install qlcolorcode
+brew install screenflick
+brew install slack
+brew install transmit
+brew install appcleaner
+brew install firefox
+brew install hazel
+brew install qlmarkdown
+brew install seil
+brew install spotify
+brew install vagrant
+brew install arq
+brew install flash
+brew install iterm2
+brew install qlprettypatch
+brew install shiori
+brew install sublime-text3
+brew install virtualbox
+brew install atom
+brew install flux
+brew install mailbox
+brew install qlstephen
+brew install sketch
+brew install tower
+brew install vlc
+brew install cloudup
+brew install nvalt
+brew install quicklook-json
+brew install skype
+brew install transmission
 brew install node
 npm install -g jshint
 npm install -g csslint
